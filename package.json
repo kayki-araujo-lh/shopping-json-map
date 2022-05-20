@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "deploy": "git push heroku main"
   },
   "dependencies": {
     "json-server": "^0.17.0"
