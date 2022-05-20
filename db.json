@@ -6,7 +6,7 @@
       "data": [
         {
           "type": "FeatureCollection",
-          "image": "assets/images/AZ_2019_Plantas_AssisBrasil.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/assis-brasil/AZ_2019_Plantas_AssisBrasil.jpg",
           "features": [
             {
               "type": "Feature",
@@ -1772,7 +1772,7 @@
       "data": [
         {
           "type": "featureCollection",
-          "image": "assets/images/AZ_2019_Plantas_CenterLar.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/center-lar/AZ_2019_Plantas_CenterLar.jpg",
           "features": [
             {
               "type": "Feature",
@@ -2366,7 +2366,7 @@
         },
         {
           "type": "featureCollection",
-          "image": "assets/images/AZ_2019_Plantas_CenterLar2.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/center-lar/AZ_2019_Plantas_CenterLar2.jpg",
           "features": [
             {
               "type": "Feature",
@@ -2874,7 +2874,7 @@
         },
         {
           "type": "featureCollection",
-          "image": "assets/images/AZ_2019_Plantas_CenterLar3.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/center-lar/AZ_2019_Plantas_CenterLar3.jpg",
           "features": [
             {
               "type": "Feature",
@@ -3312,7 +3312,7 @@
       "data": [
         {
           "type": "featureCollection",
-          "image": "assets/images/AZ_2019_Plantas_Ipiranga.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/ipiranga/AZ_2019_Plantas_Ipiranga.jpg",
           "features": [
             {
               "type": "Feature",
@@ -4787,7 +4787,7 @@
         },
         {
           "type": "featureCollection",
-          "image": "assets/images/AZ_2019_Plantas_Ipiranga2.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/ipiranga/AZ_2019_Plantas_Ipiranga2.jpg",
           "features": [
             {
               "type": "Feature",
@@ -5429,7 +5429,7 @@
         },
         {
           "type": "featureCollection",
-          "image": "assets/images/AZ_2019_Plantas_Ipiranga3.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/ipiranga/AZ_2019_Plantas_Ipiranga3.jpg",
           "features": [
             {
               "type": "Feature",
@@ -5614,7 +5614,7 @@
       "data": [
         {
           "type": "featureCollection",
-          "image": "assets/images/AZ_2019_Plantas_NovoHamburgo.png",
+          "image": "https://shopping-json-map.herokuapp.com/maps/novo-hamburgo/AZ_2019_Plantas_NovoHamburgo.png",
           "features": [
             {
               "type": "Feature",
@@ -6627,7 +6627,7 @@
         },
         {
           "type": "featureCollection",
-          "image": "assets/images/AZ_2019_Plantas_NovoHamburgo2.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/novo-hamburgo/AZ_2019_Plantas_NovoHamburgo2.jpg",
           "features": [
             {
               "type": "Feature",
@@ -8113,7 +8113,7 @@
         },
         {
           "type": "featureCollection",
-          "image": "assets/images/AZ_2019_Plantas_NovoHamburgo3.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/novo-hamburgo/AZ_2019_Plantas_NovoHamburgo3.jpg",
           "features": [
             {
               "type": "Feature",
@@ -8314,7 +8314,7 @@
       "data": [
         {
           "type": "FeatureCollection",
-          "image": "assets/images/AZ_2019_Plantas_Wallig.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/wallig/AZ_2019_Plantas_Wallig.jpg",
           "features": [
             {
               "type": "Feature",
@@ -8691,7 +8691,7 @@
         },
         {
           "type": "FeatureCollection",
-          "image": "assets/images/AZ_2019_Plantas_Wallig2.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/wallig/AZ_2019_Plantas_Wallig2.jpg",
           "features": [
             {
               "type": "Feature",
@@ -9767,7 +9767,7 @@
         },
         {
           "type": "FeatureCollection",
-          "image": "assets/images/AZ_2019_Plantas_Wallig3.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/wallig/AZ_2019_Plantas_Wallig3.jpg",
           "features": [
             {
               "type": "Feature",
@@ -11414,7 +11414,7 @@
         },
         {
           "type": "FeatureCollection",
-          "image": "assets/images/AZ_2019_Plantas_Wallig4.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/wallig/AZ_2019_Plantas_Wallig4.jpg",
           "features": [
             {
               "type": "Feature",
@@ -12547,7 +12547,7 @@
         },
         {
           "type": "FeatureCollection",
-          "image": "assets/images/AZ_2019_Plantas_Wallig5.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/wallig/AZ_2019_Plantas_Wallig5.jpg",
           "features": [
             {
               "type": "Feature",
@@ -13167,7 +13167,7 @@
       "data": [
         {
           "type": "FeatureCollection",
-          "image": "assets/images/AZ_2019_Plantas_SaoLeopoldo2.jpg",
+          "image": "https://shopping-json-map.herokuapp.com/maps/sao-leopoldo/AZ_2019_Plantas_SaoLeopoldo2.jpg",
           "features": [
             {
               "type": "Feature",
