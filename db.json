@@ -367,7 +367,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "38DD7A8A35093FC4",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -1162,7 +1162,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B8C3B0331E1C28A9",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -1271,7 +1271,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "FAE56C2FF7BF6FB0",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -1719,7 +1719,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "75C3949061BD8677",
+                "name": "SMART FIT",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
