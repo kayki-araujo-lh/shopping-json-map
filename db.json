@@ -3367,7 +3367,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "VAGA",
+                "name": "HIPERMERCADO",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -4824,7 +4824,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "1070D4F57AB33FAE",
+                "name": "PRAWER",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -4842,7 +4842,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "6AAA47990C3E4995",
+                "name": "CVC",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -4861,7 +4861,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "D49EEC19FBE74170",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -4879,7 +4879,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "117588B83C09C71D",
+                "name": "MAISLASER BY ANA HICKMANN",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -4897,7 +4897,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "60919613A3DD185E",
+                "name": "CLARO",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -4917,7 +4917,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "63557F858BF47C5A",
+                "name": "RABUSCH",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -4935,7 +4935,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "6216D8A61E04815D",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -4953,7 +4953,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CDACD42EA56090D3",
+                "name": "DE CONTO",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -4971,7 +4971,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "07CF091BB16C7B6C",
+                "name": "ELEGANCE",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -4991,7 +4991,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "51BFEF590F28792E",
+                "name": "BEAGLE",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5009,7 +5009,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "664B05D4E7E0D2E9",
+                "name": "SCALA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5028,7 +5028,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E5EFCD14BC08934E",
+                "name": "CINEMARK",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5140,7 +5140,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "74E92F918754FC1C",
+                "name": "CTR TURISMO E CÂMBIO",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5163,7 +5163,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "4967D6CF1307CD4A",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5183,7 +5183,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "F8F9E8D849D3B1F1",
+                "name": "DIGIMER",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5241,7 +5241,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "3D27C37760B53F5F",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5268,7 +5268,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B72965C28E1B932A",
+                "name": "COLCHÕES ORTOBOM",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5288,7 +5288,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B3978C998A768D8D",
+                "name": "COLCHÕES ORTOBOM",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5306,7 +5306,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "4A260318943CE68C",
+                "name": "RENNER",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5342,7 +5342,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "7CC7DB706513CF01",
+                "name": "MEZZO PORTO",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5360,7 +5360,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "389C658D7382F990",
+                "name": "BOTOCLINIC",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5378,7 +5378,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "1FDFEDBE74A76E8A",
+                "name": "LUPO",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5396,7 +5396,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "6CC36A1878F03E47",
+                "name": "MANÔA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -5415,7 +5415,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "326DD71887CA8EC3",
+                "name": "CENTAURO",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
