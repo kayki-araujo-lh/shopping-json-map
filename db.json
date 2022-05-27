@@ -16617,7 +16617,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "015584396C80A11C",
+                "name": "GNC CINEMAS",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -17012,28 +17012,7 @@
                 ]
               }
             },
-            {
-              "type": "Feature",
-              "properties": {
-                "name": "42F65F92FBA291A7",
-                "openTime": { "open": 510, "close": 1230 }
-              },
-              "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                  [
-                    [0.40143011457979955, 0.322265625],
-                    [0.42969516815031583, 0.322265625],
-                    [0.4296946826124137, 0.3516845703125],
-                    [0.43714199297877676, 0.3516845703125],
-                    [0.43714199297877676, 0.2806396484375],
-                    [0.42993795261772716, 0.2806396484375],
-                    [0.42993795261772716, 0.317138671875],
-                    [0.40143011457979955, 0.317138671875]
-                  ]
-                ]
-              }
-            },
+            
             {
               "type": "Feature",
               "properties": {
@@ -18675,7 +18654,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "1",
+                "name": "CINÉPOLIS",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18702,7 +18681,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "2",
+                "name": "USINA DO CORPO",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18754,7 +18733,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "3",
+                "name": "MAGIC GAMES",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
