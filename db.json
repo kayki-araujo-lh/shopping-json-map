@@ -14711,7 +14711,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "MUNDO VERDE",
+                "name": "STROKE",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14834,7 +14834,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CAFÉ DAS ARTES",
+                "name": "OTICA SAO JOSE ESPECIALISTA EM OCULOS",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16099,7 +16099,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A787490BE6D96B8D",
+                "name": "LIVRARIA SARAIVA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16485,7 +16485,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "BC485AE821B0C726",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16593,7 +16593,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "LIVRARIA SARAIVA",
+                "name": "PRESS CAFE",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
