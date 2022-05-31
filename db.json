@@ -14795,7 +14795,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "VAGA",
+                "name": "KOPENHAGEN",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
