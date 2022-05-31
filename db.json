@@ -2,7 +2,7 @@
   "shoppings": [
     {
       "id": 1,
-      "name": "assis-brasil",
+      "name": "Assis Brasil",
       "data": [
         {
           "type": "FeatureCollection",
@@ -1748,7 +1748,7 @@
     },
     {
       "id": 2,
-      "name": "center-lar",
+      "name": "Center Lar",
       "data": [
         {
           "type": "featureCollection",
@@ -3288,7 +3288,7 @@
     },
     {
       "id": 3,
-      "name": "ipiranga",
+      "name": "Ipiranga",
       "data": [
         {
           "type": "featureCollection",
@@ -5572,7 +5572,7 @@
     },
     {
       "id": 4,
-      "name": "novo-hamburgo",
+      "name": "Novo Hamburgo",
       "data": [
         {
           "type": "featureCollection",
@@ -8271,7 +8271,7 @@
     },
     {
       "id": 5,
-      "name": "wallig",
+      "name": "Wallig",
       "data": [
         {
           "type": "FeatureCollection",
@@ -13124,7 +13124,7 @@
     },
     {
       "id": 6,
-      "name": "sao-leopoldo",
+      "name": "São Leopoldo",
       "data": [
         {
           "type": "FeatureCollection",
@@ -14620,7 +14620,7 @@
     },
     {
       "id": 7,
-      "name": "moinhos",
+      "name": "Moinhos",
       "data": [
         {
           "type": "featureCollection",
@@ -16649,7 +16649,7 @@
     },
     {
       "id": "8012UE0001",
-      "name": "san-pellegrino",
+      "name": "San Pellegrino",
       "data": [
         {
           "type": "featureCollection",
@@ -16659,7 +16659,7 @@
               "type": "Feature",
               "properties": {
                 "name": "SUPER LEGAL",
-                "suc": 123,
+                "suc": "S120/2",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16684,6 +16684,7 @@
               "type": "Feature",
               "properties": {
                 "name": "TROPICAL PRATAS",
+                "suc": "S00119",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16702,6 +16703,7 @@
               "type": "Feature",
               "properties": {
                 "name": "CVC",
+                "suc": "S00118",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16720,6 +16722,7 @@
               "type": "Feature",
               "properties": {
                 "name": "CLARO",
+                "suc": "S00117",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16738,6 +16741,7 @@
               "type": "Feature",
               "properties": {
                 "name": "COMMCENTER",
+                "suc": "S115/6",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16758,6 +16762,7 @@
               "type": "Feature",
               "properties": {
                 "name": "IMAGINARIUM",
+                "suc": "S00114",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16832,6 +16837,7 @@
               "type": "Feature",
               "properties": {
                 "name": "PIONER",
+                "suc": "S00126",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16905,6 +16911,7 @@
               "type": "Feature",
               "properties": {
                 "name": "SORVELÂNDIA",
+                "suc": "S138/9",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16942,7 +16949,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "LOTÉRICA",
+                "name": "LOTÉRICA VÊNETO",
+                "suc": "Q00020",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16981,6 +16989,7 @@
               "type": "Feature",
               "properties": {
                 "name": "LUZ DA LUA",
+                "suc" : "S00134",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16998,7 +17007,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "O BOTICÁRIO",
+                "name": "AMANI",
+                "suc": "S00133",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -17017,7 +17027,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CACAU SHOW",
+                "name": "O Boticário",
+                "suc": "S00140",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -17035,7 +17046,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CAMBIONET",
+                "name": "RODER ACESSORIOS EM COURO",
+                "suc": "S00141",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -17054,6 +17066,7 @@
               "type": "Feature",
               "properties": {
                 "name": "HOPE",
+                "suc": "S00128",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -17090,6 +17103,7 @@
               "type": "Feature",
               "properties": {
                 "name": "O.R GAMES",
+                "suc": "S00131", 
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -17107,7 +17121,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "VIA UNO",
+                "name": "BOTOCLINIC",
+                "suc": "S00132",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -17132,6 +17147,7 @@
               "type": "Feature",
               "properties": {
                 "name": "HIPERMERCADO ZAFFARI",
+                "suc": "S106/3",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -17185,6 +17201,7 @@
               "type": "Feature",
               "properties": {
                 "name": "SAMSUNG",
+                "suc": "Q00Q02",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -17239,6 +17256,7 @@
               "type": "Feature",
               "properties": {
                 "name": "NBK ROCK",
+                "suc": "Q00003",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -17295,6 +17313,7 @@
               "type": "Feature",
               "properties": {
                 "name": "PANVEL",
+                "suc": "S102/3",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -17315,6 +17334,7 @@
               "type": "Feature",
               "properties": {
                 "name": "DROP'S DE MENTA",
+                "suc": "S100/1",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18793,7 +18813,7 @@
     },
     {
       "id": 9,
-      "name": "country",
+      "name": "Country",
       "data": [
         {
           "type": "featureCollection",
@@ -20784,7 +20804,7 @@
     },
     {
       "id": 10,
-      "name": "sao-paulo",
+      "name": "São Paulo",
       "data": [
         {
           "type": "FeatureCollection",
