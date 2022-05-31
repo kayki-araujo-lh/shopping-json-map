@@ -174,7 +174,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "BURGUER KING",
+                "name": "BURGER KING",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -4402,7 +4402,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "PAMPA BURGUER",
+                "name": "PAMPA BURGER",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -12558,7 +12558,7 @@
               "type": "Feature",
               "id": "3",
               "properties": {
-                "name": "Magic Games",
+                "name": "MAGIC GAMES",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -13075,7 +13075,7 @@
               "type": "Feature",
               "id": "29",
               "properties": {
-                "name": "Burguer King",
+                "name": "Burger King",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16251,7 +16251,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "BURGUER KING",
+                "name": "BURGER KING",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18122,6 +18122,7 @@
               "type": "Feature",
               "properties": {
                 "name": "McDONALDS",
+                "suc": "S00A05",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18162,7 +18163,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "PEQUIM",
+                "name": "PEQUIM CHINA FAST FOOD",
+                "suc": "S00A04",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18181,6 +18183,7 @@
               "type": "Feature",
               "properties": {
                 "name": "SUBWAY",
+                "suc":"S00A02",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18198,7 +18201,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "MINI KALZONI",
+                "name": "MINI KALZONE",
+                "suc": "S00A01",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18217,6 +18221,7 @@
               "type": "Feature",
               "properties": {
                 "name": "TROPICO",
+                "suc": "S00316",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18253,6 +18258,7 @@
               "type": "Feature",
               "properties": {
                 "name": "VIA LASER",
+                "suc": "S00314",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18290,7 +18296,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "VAGA",
+                "name": "AMETISTA BOUTIQUE ESOTERICA",
+                "suc": "S00312",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18327,6 +18334,7 @@
               "type": "Feature",
               "properties": {
                 "name": "LOJAS AMERICANAS",
+                "suc": "S00310",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18428,6 +18436,7 @@
               "type": "Feature",
               "properties": {
                 "name": "MENY DOGGY",
+                "suc": "S305/6",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18446,6 +18455,7 @@
               "type": "Feature",
               "properties": {
                 "name": "ESTAÇÃO KIDS BY BAMBOLINO",
+                "suc": "S303/4",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18504,6 +18514,7 @@
               "type": "Feature",
               "properties": {
                 "name": "DI PAOLO",
+                "suc": "S00A11",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18521,7 +18532,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "GAUDÉRIO",
+                "name": "GAUDÉRIO GRILL",
+                "suc": "S00A10",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18545,6 +18557,7 @@
               "type": "Feature",
               "properties": {
                 "name": "MAXIBURGUER",
+                "suc": "S00A09",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18636,6 +18649,7 @@
               "type": "Feature",
               "properties": {
                 "name": "BURGER KING",
+                "suc": "S0A13/",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18659,6 +18673,7 @@
               "type": "Feature",
               "properties": {
                 "name": "DOCE DOCÊ",
+                "suc": "S00A12",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18682,7 +18697,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CINÉPOLIS",
+                "name": "CINEPOLIS",
+                "suc": "S00400",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18710,6 +18726,7 @@
               "type": "Feature",
               "properties": {
                 "name": "USINA DO CORPO",
+                "suc": "S00404",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18762,6 +18779,7 @@
               "type": "Feature",
               "properties": {
                 "name": "MAGIC GAMES",
+                "suc": "S0401/",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -18799,7 +18817,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "DIFFERENZA",
+                "name": "DIFFERENZA ESPACO DE BELEZA",
+                "suc": "S00402",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
