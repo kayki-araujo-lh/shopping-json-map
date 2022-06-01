@@ -20952,7 +20952,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": "8007UE0034",
       "name": "São Paulo",
       "data": [
         {
@@ -21318,7 +21318,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "F21D2168017EBAD4",
+                "name": "GLITZ MANIA",  
+                "suc": "ST019A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21343,7 +21344,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "08E2C9D52AC81F09",
+                "name": "WORLD TENNIS",
+                "suc": "S0T020",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21363,7 +21365,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "91AECA21937A14F6",
+                "name": "ESTÚDIO MAIS",
+                "suc": "S0T021",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21381,7 +21384,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "74012AA6389A49C2",
+                "name": "NATURA",
+                "suc": "S0T022",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21403,7 +21407,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "488E7F5A4E6FDDA7",
+                "name": "DECO SKIN",
+                "suc": "ST024A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21421,7 +21426,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "BD06EE887CC50A23",
+                "name": "CASA DAS ALIANCAS",
+                "suc": "S0T024", 
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21440,7 +21446,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A1287FCB97454A0A",
+                "name": "EUROPA CAMBIO",
+                "suc": "S0T025",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21458,7 +21465,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "49DDA008E41BE2C9",
+                "name": "DONNA LY",
+                "suc": "S0T026",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21476,7 +21484,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B451F6F279253AA3",
+                "name": "BRIGADERIA",
+                "suc": "S0T027",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21494,7 +21503,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "8D0C36CD9C72E8FC",
+                "name": "NOW! NUTRIÇÃO ESPORTIVA",
+                "suc": "S0T028",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21512,7 +21522,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "BC54FB3B00AAD8C5",
+                "name": "CHILLI BEANS",
+                "suc": "S0T029",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21530,7 +21541,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "5B751BBABFCC9ED1",
+                "name": "PANVEL",
+                "suc": "S0T019",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21551,7 +21563,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "EB6918A574AE8D3E",
+                "name": "ANA CAPRI",
+                "suc": "ST018A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21569,7 +21582,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "1746B1957F5F81D9",
+                "name": "ANTIX",
+                "suc": "S0T018",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21588,7 +21602,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "F6FEA7CE84DA0231",
+                "name": "MUNDO DO CABELEIREIRO",
+                "suc": "ST16/7",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21611,7 +21626,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "5E2C59B5B840B130",
+                "name": "CLARO",
+                "suc": "S0T015",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21633,7 +21649,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "359B738B68D11C9D",
+                "name": "SANTA LOLLA",
+                "suc": "S0T014",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21651,7 +21668,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "BF03A7422C88DED2",
+                "name": "MONTE CARLO",
+                "suc": "ST0013",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21673,7 +21691,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E1E29BF7B510BC60",
+                "name": "MR CAT",
+                "suc": "S0T012",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21693,7 +21712,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "DC0C7D61017BAFDD",
+                "name": "ANY ANY",
+                "suc": "S0T011",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21711,7 +21731,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "C652AECED7B98012",
+                "name": "PANDORA",
+                "suc": "S0T009",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21729,7 +21750,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "C71B2A0B4A28C044",
+                "name": "GRANDVISION BY FOTOTICA ",
+                "suc": "S0T010",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21751,7 +21773,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "8CA929A3E8DDC619",
+                "name": "KINGS SNEAKERS",
+                "suc": "ST008A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21769,7 +21792,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "D3BEC83B7C1AE676",
+                "name": "LINDT",
+                "suc": "S0T008",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21789,7 +21813,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B0601F239E96D1C3",
+                "name": "DERMAGE",
+                "suc": "ST006A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21807,7 +21832,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "8AFE0347D90AAEAB",
+                "name": "MY PHONNE",
+                "suc": "S0T007",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21826,7 +21852,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "33FA0B5AD52329F1",
+                "name": "L'OCCITANE AU BRÉSIL",
+                "suc": "S0T006",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21845,7 +21872,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "122085BF8A690029",
+                "name": "INTIMISSIMI",
+                "suc": "S0T005",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21863,7 +21891,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "42B3A8BD826E729B",
+                "name": "VIVO",
+                "suc": "S0T004",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21883,7 +21912,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "EC488847D36FF6AB",
+                "name": "SAMSUNG",
+                "suc": "S0T003",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21901,7 +21931,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "783228AE39AB1FD4",
+                "name": "DROGASIL",
+                "suc": "S0T002",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21922,7 +21953,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "4AF0C3271F635B58",
+                "name": "CASA BAUDUCCO",
+                "suc": "S0T001",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21940,7 +21972,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "441EAB43EAC8601A",
+                "name": "ZEISS VISION CENTER ",
+                "suc": "S0T030",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21958,7 +21991,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "33EA6FAAD2507F51",
+                "name": "ORTOPEDIA PALMIPÉ",
+                "suc": "S0T031",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21976,7 +22010,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "5BEE9613AC92212E",
+                "name": "BRADESCO",
+                "suc":  "S0T033",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21996,7 +22031,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "FFB1130FE96985E6",
+                "name": "LIVE!",
+                "suc": "S0T032",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22015,7 +22051,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "891E3826E05ADDAF",
+                "name": "CNS",
+                "suc": "S0T034",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22124,7 +22161,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "563C0971BB495C89",
+                "name": "RIACHUELO",
+                "suc": "ST0035",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22177,7 +22215,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "50B8C68BA65290F2",
+                "name": "GREGORY",
+                "suc": "ST45/6",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22196,7 +22235,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "D709786D7710C1C2",
+                "name": "FASCAR",
+                "suc": "S0T044",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22215,7 +22255,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "28A5C22A544852A1",
+                "name": "CLUBE MELISSA",
+                "suc": "S0T043",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22233,7 +22274,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "3E9B7686AA45DA0A",
+                "name": "LATAM TRAVEL",
+                "suc": "S0T047",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22252,7 +22294,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "7DCF6741406C9FE3",
+                "name": "IMAGINARIUM",
+                "suc": "S0T042",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22272,7 +22315,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "D981105E6177585B",
+                "name": "MOLDURA MINUTO",
+                "suc": "S0T041",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22291,7 +22335,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "7C16568F11F9B064",
+                "name": "LIEBE",
+                "suc": "S0T048",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22310,7 +22355,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "789877BA3CF3165F",
+                "name": "ARRANJOS EXPRESS",
+                "suc": "S0T049",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22329,7 +22375,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "2BA1D8FCF219EF08",
+                "name": "REI DO MATE",
+                "suc": "S0T040",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22348,7 +22395,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "58FD29ECD4003974",
+                "name": "PREMIER",
+                "suc":"S0T050",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22367,7 +22415,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E786E57B6451CF97",
+                "name": "VALISERE",
+                "suc": "S0T039",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22386,7 +22435,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B2FAECE90F8462A1",
+                "name": "DUDALINA",
+                "suc": "S00151",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22404,7 +22454,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "78488FFF7102EA3F",
+                "name": "IPLACE",
+                "suc": "ST037/",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22422,7 +22473,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "D7B9A6EA0D546F1D",
+                "name": "LUPO",
+                "suc": "S0T052",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22440,7 +22492,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "68D685B0F0A71552",
+                "name": "A OCULISTA",
+                "suc": "ST0053",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22461,7 +22514,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "AB69F64158E58487",
+                "name": "TIMELAND",
+                "suc":"S0T036",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
