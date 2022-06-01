@@ -4046,6 +4046,7 @@
               "type": "Feature",
               "properties": {
                 "name": "TROPPO BUONO",
+                "suc": "S00331",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14676,6 +14677,7 @@
               "type": "Feature",
               "properties": {
                 "name": "COLISEU",
+                "suc": "S00107",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14694,6 +14696,7 @@
               "type": "Feature",
               "properties": {
                 "name": "LOCCITANE",
+                "suc": "S00106",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14712,6 +14715,7 @@
               "type": "Feature",
               "properties": {
                 "name": "STROKE",
+                "suc": "S00105",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14730,6 +14734,7 @@
               "type": "Feature",
               "properties": {
                 "name": "AREZZO",
+                "suc": "S103/4",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14749,6 +14754,7 @@
               "type": "Feature",
               "properties": {
                 "name": "USAFLEX",
+                "suc": "S00102",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14768,6 +14774,7 @@
               "type": "Feature",
               "properties": {
                 "name": "LOJAS AMERICANAS",
+                "suc": "S00101",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14796,6 +14803,7 @@
               "type": "Feature",
               "properties": {
                 "name": "KOPENHAGEN",
+                "suc": "S00120",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14817,6 +14825,7 @@
               "type": "Feature",
               "properties": {
                 "name": "ROBERTO CELULAR",
+                "suc": "S00121",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14835,6 +14844,7 @@
               "type": "Feature",
               "properties": {
                 "name": "OTICA SAO JOSE ESPECIALISTA EM OCULOS",
+                "suc": "S00122",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14853,6 +14863,7 @@
               "type": "Feature",
               "properties": {
                 "name": "OFICINA DE RELÓGIOS",
+                "suc": "S00123",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14871,6 +14882,7 @@
               "type": "Feature",
               "properties": {
                 "name": "HUGO BEAUTY",
+                "suc": "S00124",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14891,6 +14903,7 @@
               "type": "Feature",
               "properties": {
                 "name": "BOUTIQUE OK",
+                "suc": "S00125",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14909,6 +14922,7 @@
               "type": "Feature",
               "properties": {
                 "name": "PANVEL",
+                "suc": "S126/7",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14929,6 +14943,7 @@
               "type": "Feature",
               "properties": {
                 "name": "HERING",
+                "suc": "S128/9",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14947,6 +14962,7 @@
               "type": "Feature",
               "properties": {
                 "name": "TRACK&FIELD",
+                "suc": "S00130",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14968,6 +14984,7 @@
               "type": "Feature",
               "properties": {
                 "name": "D'VIE JOALHERIA",
+                "suc": "S00131",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14988,6 +15005,7 @@
               "type": "Feature",
               "properties": {
                 "name": "O BOTICARIO",
+                "suc": "S132/3",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15006,6 +15024,7 @@
               "type": "Feature",
               "properties": {
                 "name": "NEW BIJOUX",
+                "suc": "S00134",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15118,6 +15137,7 @@
               "type": "Feature",
               "properties": {
                 "name": "MOBIFANS",
+                "suc": "Q00029",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15203,6 +15223,7 @@
               "type": "Feature",
               "properties": {
                 "name": "MANÔA",
+                "suc": "S00118",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15239,6 +15260,7 @@
               "type": "Feature",
               "properties": {
                 "name": "LASCAUX",
+                "suc": "S00116",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15257,6 +15279,7 @@
               "type": "Feature",
               "properties": {
                 "name": "SPIRITO SANTO",
+                "suc": "S114/5",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15276,6 +15299,7 @@
               "type": "Feature",
               "properties": {
                 "name": "SPIRITO SANTO",
+                "suc": "S114/5",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15332,6 +15356,7 @@
               "type": "Feature",
               "properties": {
                 "name": "FARM",
+                "suc": "S108/9",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15363,6 +15388,7 @@
               "type": "Feature",
               "properties": {
                 "name": "ANIMALE",
+                "suc": "S0223A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15419,6 +15445,7 @@
               "type": "Feature",
               "properties": {
                 "name": "SCALA",
+                "suc": "S00220",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15437,6 +15464,7 @@
               "type": "Feature",
               "properties": {
                 "name": "ESPAÇO LASER",
+                "suc": "S00219",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15472,7 +15500,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "BÔ.BÔ",
+                "name": "VIVARA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15492,7 +15520,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "FOLIC",
+                "name": "VIVARA",
+                "suc": "S217/8",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15513,6 +15542,7 @@
               "type": "Feature",
               "properties": {
                 "name": "DATELLI",
+                "suc": "S215/6",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15551,6 +15581,7 @@
               "type": "Feature",
               "properties": {
                 "name": "BROOKSFIELD",
+                "suc": "S211/2",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15577,6 +15608,7 @@
               "type": "Feature",
               "properties": {
                 "name": "JORGE BISCHOFF",
+                "suc": "S209/0",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15596,6 +15628,7 @@
               "type": "Feature",
               "properties": {
                 "name": "HOPE",
+                "suc": "S00208",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15613,7 +15646,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "DVOSKIN KULKES JOALHEIROS",
+                "name": "JOALHERIA DVOSKINKULKES",
+                "suc": "S205/6",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15670,6 +15704,7 @@
               "type": "Feature",
               "properties": {
                 "name": "RICHARDS",
+                "suc": "S201/4",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15709,7 +15744,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "VAGA",
+                "name": "PANDORA",
+                "suc": "Q02Q02",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15818,6 +15854,7 @@
               "type": "Feature",
               "properties": {
                 "name": "SCHUTZ",
+                "suc": "S0223B",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15835,7 +15872,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "LE LIS BLANC",
+                "name": "LE LIS BLANC DEUX/ROSA CHA",
+                "suc": "S223C/",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15855,7 +15893,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "LE LIS BLANC",
+                "name": "LE LIS BLANC DEUX/ROSA CHA",
+                "suc": "S223C/",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15896,6 +15935,7 @@
               "type": "Feature",
               "properties": {
                 "name": "LUZ DA LUA",
+                "suc": "S00227",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15914,6 +15954,7 @@
               "type": "Feature",
               "properties": {
                 "name": "TWIN SET",
+                "suc" :"S228/9",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15931,7 +15972,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "DONA LY",
+                "name": "DONNA LY",
+                "suc": "S00230",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15949,7 +15991,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CASA LOURO",
+                "name": "CALZEDONIA LEGWEAR & BEACHWEAR",
+                "suc": "S00231",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -15968,6 +16011,7 @@
               "type": "Feature",
               "properties": {
                 "name": "CONVEXO",
+                "suc": "S232/5",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16015,7 +16059,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "BONETERIE TRICOT",
+                "name": "BONNETERIE TRICOT",
+                "suc": "S00236",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16033,7 +16078,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "ÓTICA SÃO JOSÉ",
+                "name": "ZEISS VISION CENTER",
+                "suc": "S237/8",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16051,7 +16097,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "TURISTAR",
+                "name": "CAMBIONET",
+                "suc": "S0239A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16118,6 +16165,7 @@
               "type": "Feature",
               "properties": {
                 "name": "VIALASER DEPILACAO A LASER",
+                "suc": "S00317",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16136,6 +16184,7 @@
               "type": "Feature",
               "properties": {
                 "name": "LUPO",
+                "suc" : "S315/6",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16154,6 +16203,7 @@
               "type": "Feature",
               "properties": {
                 "name": "BELLI",
+                "suc": "S00314",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16172,6 +16222,7 @@
               "type": "Feature",
               "properties": {
                 "name": "LOFT DESIGN",
+                "suc": "S00313",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16191,6 +16242,7 @@
               "type": "Feature",
               "properties": {
                 "name": "VIVO",
+                "suc": "S309/2",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16252,6 +16304,7 @@
               "type": "Feature",
               "properties": {
                 "name": "BURGER KING",
+                "suc": "S00305",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16271,6 +16324,7 @@
               "type": "Feature",
               "properties": {
                 "name": "MAINAU",
+                "suc": "S00304",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16349,6 +16403,7 @@
               "type": "Feature",
               "properties": {
                 "name": "MOINHOS GRELHADOS E SALADAS",
+                "suc": "S00336",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16369,6 +16424,7 @@
               "type": "Feature",
               "properties": {
                 "name": "MAMMA MIA",
+                "suc": "S333/5",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16428,6 +16484,7 @@
               "type": "Feature",
               "properties": {
                 "name": "TAVERNA MULINO",
+                "suc": "S00330",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16504,6 +16561,7 @@
               "type": "Feature",
               "properties": {
                 "name": "LE PETIT MACARONS",
+                "suc": "S00326",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16522,6 +16580,7 @@
               "type": "Feature",
               "properties": {
                 "name": "DOMENICO",
+                "suc": "S00325",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16540,6 +16599,7 @@
               "type": "Feature",
               "properties": {
                 "name": "CLARO",
+                "suc": "S00324",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16558,6 +16618,7 @@
               "type": "Feature",
               "properties": {
                 "name": "TABAJARA",
+                "suc": "S00322",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16594,6 +16655,7 @@
               "type": "Feature",
               "properties": {
                 "name": "PRESS CAFE",
+                "suc": "Q00002",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -16617,7 +16679,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "GNC CINEMAS",
+                "name": "CINE GNC MOINHOS",
+                "suc": "S00C01",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
