@@ -24659,7 +24659,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "392ECCF50CFE08A8",
+                "name": "ESPAÇO ITAÚ DE CINEMAS/IMAX",
+                "suc": "S00261",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
