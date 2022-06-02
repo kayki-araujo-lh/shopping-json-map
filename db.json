@@ -20962,7 +20962,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A70E6DC8B9753C1B",
+                "name": "MC DONALD'S - DRIVE TRHU ",
+                "suc": "S0M001",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -20986,7 +20987,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A750A6FC1842C058",
+                "name": "OUTBACK STEAKHOUSE",
+                "suc": "S0M005",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -21287,7 +21289,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A19B702E31B27584",
+                "name": "HIPERMERCADO ZAFFARI",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22188,33 +22190,6 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "16B5A77F9D0FC26D",
-                "openTime": { "open": 510, "close": 1230 }
-              },
-              "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                  [
-                    [0.4460846570917959, 0.2643439571432935],
-                    [0.46977400634885436, 0.2643439571432935],
-                    [0.4724604273986238, 0.25554657192167884],
-                    [0.47368152787579176, 0.24406109677123744],
-                    [0.47368152787579176, 0.23355310886764213],
-                    [0.4702624465397215, 0.21937954378837402],
-                    [0.4683086857762528, 0.21473647936585516],
-                    [0.4477941977598311, 0.21449210755414364],
-                    [0.44339823604202644, 0.22353386458746982],
-                    [0.4409560350876905, 0.23404185249106516],
-                    [0.4414444752785577, 0.24723793032348718],
-                    [0.4438866762328936, 0.2584790336622171],
-                    [0.4463288771872295, 0.26507707257842805]
-                  ]
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
                 "name": "GREGORY",
                 "suc": "ST45/6",
                 "openTime": { "open": 510, "close": 1230 }
@@ -22550,31 +22525,6 @@
                   ]
                 ]
               }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "name": "FA5AFB3E1FC06260",
-                "openTime": { "open": 510, "close": 1230 }
-              },
-              "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                  [
-                    [0.503206728884507, 0.12176167078248618],
-                    [0.5063815901251437, 0.1166298627365443],
-                    [0.5068700303160109, 0.11247554193744846],
-                    [0.4939263652580305, 0.08583901446089287],
-                    [0.491239944208261, 0.08339529634377768],
-                    [0.4883093030630579, 0.08363966815548918],
-                    [0.48122692029548375, 0.08535027083746982],
-                    [0.4196834562462186, 0.11785172179510184],
-                    [0.4174854753873163, 0.12273915802933227],
-                    [0.4191950160553514, 0.1273822224518511],
-                    [0.4319114676906869, 0.15425734207233024]
-                  ]
-                ]
-              }
             }
           ]
         },
@@ -22585,7 +22535,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "1853F718FDE91E77",
+                "name": "C&A",
+                "suc": "S00117",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22617,7 +22568,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "255C014FC32F2D18",
+                "name": "KHELF",
+                "suc": "S00115",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22635,7 +22587,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "7E36344193C10D4A",
+                "name": "LEVI'S",
+                "suc": "S00116",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22653,7 +22606,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "89ACD8A5C4BA7071",
+                "name": "BOTOCLINIC",
+                "suc": "S00118",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22671,7 +22625,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "1EAD5CA66911F223",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22707,7 +22661,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "EF4C5C928614672E",
+                "name": "FOREVER 21",
+                "suc": "S00114",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22731,7 +22686,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "98E1F3A951B2CA2D",
+                "name": "JOHN JOHN /LE LIS BLANC DEUX",
+                "suc": "S00119",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22754,7 +22710,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "76555A1864BBB52D",
+                "name": "ESPAÇOLASER",
+                "suc": "S0119A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22775,7 +22732,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "AFE7BDE3D3B50806",
+                "name": "STARBUCKS COFFEE",
+                "suc": "S00120",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22796,7 +22754,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "C64D892A52BEEF65",
+                "name": "CAMICADO",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22817,7 +22775,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "2AFB80C479ABE13F",
+                "name": "CAMICADO",
+                "suc": "S00113",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22835,7 +22794,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "223169313066A0CD",
+                "name": "VANS",
+                "suc": "S00111",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22889,7 +22849,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "4FC728967C675DA1",
+                "name": "CLUBE MORENA ROSA",
+                "suc": "S109/0",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22911,7 +22872,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "61D2BA6E82480A91",
+                "name": "RESERVA",
+                "suc": "S00108",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22931,7 +22893,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B1C2E00A24170BCF",
+                "name": "O BOTICARIO",
+                "suc": "S00107",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22951,7 +22914,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "15FCA86E4FEF364A",
+                "name": "LUZ DA LUA",
+                "suc": "S0106A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22969,7 +22933,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "8E9E8E7ED14A9200",
+                "name": "NESPRESSO",
+                "suc": "Q02Q01",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -22987,7 +22952,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "FCF8E6DB757EDF41",
+                "name": "CORELLO",
+                "suc": "S00106", 
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23005,7 +22971,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "C8553C069A84EE05",
+                "name": "CANAL",
+                "suc": "S00105",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23023,7 +22990,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "F66744AB21C0BC20",
+                "name": "TNG",
+                "suc": "S00104",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23057,7 +23025,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "8FF022C8C9939E72",
+                "name": "TIP TOP",
+                "suc":"S00103",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23075,7 +23044,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CEC5AEAEB6833B3A",
+                "name": "TOMMY HILFIGER",
+                "suc": "S00102",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23094,7 +23064,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "2BF7E1F2ED12C4A4",
+                "name": "THE BODY SHOP",
+                "suc": "S00101",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23114,7 +23085,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "503B1D14CC6A603F",
+                "name": "ARAMIS",
+                "suc": "S00146",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23137,7 +23109,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B744329F69D84863",
+                "name": "STAR POINT",
+                "suc": "S00156",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23157,7 +23130,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E763A17D531E0A5D",
+                "name": "GREEN",
+                "suc": "S00155",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23175,7 +23149,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CBF749A427228BDB",
+                "name": "SAMSONITE",
+                "suc": "S00154",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23195,7 +23170,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "1CC8DD37CBC9754E",
+                "name": "SWAROVSKI",
+                "suc": "S00153",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23213,7 +23189,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "83999EAE0114E5D1",
+                "name": "OPAQUE",
+                "suc": "S00152",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23233,7 +23210,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B136DCF0D995083D",
+                "name": "DUDALINA",
+                "suc": "S00151",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23253,7 +23231,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "27487CB1AC26E5C0",
+                "name": "AREZZO",
+                "suc": "S00160",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23271,7 +23250,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "0F49D16C9CF34A42",
+                "name": "L'OCCITANE EN PROVENCE",
+                "suc": "S00161",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23289,7 +23269,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "8EFFE6B69B20E3C8",
+                "name": "KOPENHAGEN",
+                "suc": "S00164",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23307,7 +23288,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E0F0C6A0803EF5DD",
+                "name": "VIVARA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23325,7 +23306,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "0A715AD55BCCB6C6",
+                "name": "COLECIONA BRINQUEDOS",
+                "suc": "S00167",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23343,7 +23325,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "FF36D6AF70CB27DA",
+                "name": "CAPODARTE",
+                "suc": "S00157",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23362,7 +23345,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "283D58A01605656E",
+                "name": "ANIMALE",
+                "suc": "S148/0",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23384,7 +23368,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A601014A3B044C44",
+                "name": "VICTOR HUGO",
+                "suc": "S00147",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23406,7 +23391,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "93451AFD0B2E77DA",
+                "name": "MAC",
+                "suc": "S00175",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23427,7 +23413,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "3756944CFB02B6DC",
+                "name": "AUTHENTIC FEET/MAGIC FEET",
+                "suc": "S00158",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23446,7 +23433,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "76EA000A03D20089",
+                "name": "UNCLE K",
+                "suc": "S00159",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23465,7 +23453,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "8F088EB5A47D69E3",
+                "name": "OCCHIALERIA",
+                "suc": "S00162",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23484,7 +23473,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E9E953B84A56421C",
+                "name": "LOUNGERIE",
+                "suc": "S00163",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23505,7 +23495,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "AA5D4E578062BF67",
+                "name": "VIVARA",
+                "suc": "S165/6",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23524,7 +23515,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E6F9BB5CF509F2DB",
+                "name": "ZÊLO",
+                "suc":"S00168",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23543,7 +23535,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "0A6A32049323989B",
+                "name": "ZARA",
+                "suc": "S00174",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23563,7 +23556,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "C64C0D282C080845",
+                "name": "HERING STORE",
+                "suc": "S00169",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23589,7 +23583,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "EFB3DB7940020130",
+                "name": "KIPLING",
+                "suc": "S0169A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23610,7 +23605,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CD5B1118966D98A6",
+                "name": "OUTER",
+                "suc": "S00122",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23628,7 +23624,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "27601BB786EEC74A",
+                "name": "ACIUM",
+                "suc": "Q02Q02",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23664,7 +23661,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "59D98EE72FF53F86",
+                "name": "CACAU SHOW MEGA STORE",
+                "suc": "S00170",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23684,7 +23682,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "56E95AA0C0DD049B",
+                "name": "M. OFFICER",
+                "suc":"S171/3",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23714,7 +23713,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CD9D548FF562C131",
+                "name": "BROOKSFIELD",
+                "suc": "S142/5",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23742,7 +23742,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "0F0DD62A3FFC66D6",
+                "name": "SIDE WALK",
+                "suc": "S00141",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23762,7 +23763,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "9A5036F251443573",
+                "name": "USAFLEX",
+                "suc": "S00140",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23781,7 +23783,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A3C73482B813441A",
+                "name": "MOB",
+                "suc": "S138/9", 
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23804,7 +23807,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "05C382BA4E7D0AD2",
+                "name": "SHOULDER",
+                "suc" :"S00137",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23825,7 +23829,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "1CF3695B8E3665D4",
+                "name": "TVZ",
+                "suc": "S00136",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23845,7 +23850,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "4016481FB79C8CCF",
+                "name": "LACOSTE",
+                "suc": "S134/5",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23864,7 +23870,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "1C3E790DAE5BAFD2",
+                "name": "ROSA VALVERDE",
+                "suc": "S00133",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23883,7 +23890,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E3C9187AE44449F0",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23906,7 +23913,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "531B7FDA0E844533",
+                "name": "FAST SHOP",
+                "suc": "S126/8",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23929,7 +23937,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "EE2F26E229D2ABB2",
+                "name": "CENTAURO",
+                "suc": "S124/5",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23954,7 +23963,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A043B9369A73EEC1",
+                "name": "BAYARD - MARCA DE ESPORTES ",
+                "suc": "S00121",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -23975,7 +23985,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A1F56D8FB7F4DC6D",
+                "name": "RENNER",
+                "suc": "S00123",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
