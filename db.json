@@ -6658,7 +6658,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "8A855AD72998EBCC",
+                "name": "BURGER KING", 
+                "suc": "S02055",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6679,7 +6680,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CA707877C76D5D92",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6697,7 +6698,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "195D4C366EA51A7D",
+                "name": "IZA NUBIA", 
+                "suc": "S02053",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6715,7 +6717,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "5A6E1CB102906785",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6733,7 +6735,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "2731C7DD717E8A60",
+                "name": "CLARO", 
+                "suc": "S02048",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6753,7 +6756,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "D38E502B15535C27",
+                "name": "PLANETA SURF", 
+                "suc": "S02047",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6771,7 +6775,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "C5E8CBA83F2CF151",
+                "name": "ARABE CAFÉ", 
+                "suc": "Q00046",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6791,7 +6796,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A551ECDA619F5069",
+                "name": "BULLDOG", 
+                "suc": "S02044",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6809,7 +6815,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "AF2F64396B4DC831",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6827,7 +6833,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "6F7C3FE22C9C567D",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6845,7 +6851,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E1DEE30196142AC8",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6864,7 +6870,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B73202E33E7AA324",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6882,7 +6888,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "36A771424A036EF7",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6902,7 +6908,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "C4D014B8C483E3EC",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6920,7 +6926,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CB9C81C09A369D84",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6938,7 +6944,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B8DA140623F7DB45",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6956,7 +6962,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "77BD82AED115308C",
+                "name": "RENNER",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -6982,7 +6988,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "1DE96FFD6BA19425",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7000,7 +7006,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E5D02F5A4F77A53B",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7020,7 +7026,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "5A25637A79FBB2BC",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7038,7 +7044,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "C9DA93F504E325B7",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7057,7 +7063,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "4C690024369CB6C1",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7075,7 +7081,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "7C83F44B6BB37013",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7093,7 +7099,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "433ACF1CB37DDE5A",
+                "name": "CVC",
+                "suc": "S02013",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7130,7 +7137,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "C8F3A821F55B2ED0",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7148,7 +7155,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "745CD87B9E2E396D",
+                "name": "GERAÇÃO DIGITAL", 
+                "suc": "S2010C",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7166,7 +7174,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "2A861F5B769D33A3",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7184,7 +7192,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E317D1454AF64D17",
+                "name": "CHILLI BEANS", 
+                "suc": "S02009",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7203,7 +7212,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "2E8D7BF1A138134A",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7223,7 +7232,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "24320300ADC85149",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7279,7 +7288,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "2AE495ADD0C1689B",
+                "name": "BAGAGGIO", 
+                "suc": "S2006B",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7300,7 +7310,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "D59FC851AA518F1B",
+                "name": "COLISEU", 
+                "suc": "S2004/",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7318,7 +7329,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "9CED68B3A8FA57E6",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7340,7 +7351,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "65539225DF38F1B3",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7361,7 +7372,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "C733BC93962CB195",
+                "name": "CENTAURO", 
+                "suc": "S02001",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7448,7 +7460,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CEA427A6BC89B619",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7467,7 +7479,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "648136400FD2B9FD",
+                "name": "MCDONALD'S", 
+                "suc": "S02064",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7493,7 +7506,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "752E9E7D56513E2C",
+                "name": "CROASONHO", 
+                "suc": "S2063A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7513,7 +7527,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "494203B1A94A2DBD",
+                "name": "PICA PAU LANCHES", 
+                "suc": "S02063",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7533,7 +7548,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "067FA1EE95719B74",
+                "name": "BIFFES GRILL", 
+                "suc": "S02062",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7553,7 +7569,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "1DD22F306090F25C",
+                "name": "BOCATTINO",
+                "suc": "S02061",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7573,7 +7590,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "79A70B0A12777D85",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7596,7 +7613,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "038F0559E9DB08C4",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7615,7 +7632,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "5FD43A590BCE17D6",
+                "name": "MINI KALZONE", 
+                "suc": "S2073D",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7634,7 +7652,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "985121E38FBBEA59",
+                "name": "PIATTO", 
+                "suc": "S2073C",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7652,7 +7671,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "43A731256F09F743",
+                "name": "SUSHIAKI", 
+                "suc": "S2073B",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7670,7 +7690,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "794C36A502630CB9",
+                "name": "SUBWAY", 
+                "suc": "S2073A",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7689,7 +7710,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E4F554D1B0F1A109",
+                "name": "LUPO",
+                "suc": "S02074",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7707,7 +7729,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "57F1E22A69F148FF",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7725,7 +7747,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E45EFDEE1025274E",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7745,7 +7767,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "573E59D1AF5F761C",
+                "name": "ÓTICA CONFIANÇA", 
+                "suc": "S02067",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7764,7 +7787,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "CA4718512DE5B87A",
+                "name": "REVEL", 
+                "suc": "S02068",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7782,7 +7806,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "8395F3C057C89856",
+                "name": "GANG", 
+                "suc": "S02070",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7801,7 +7826,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "3A7EE1FD55D2EDE0",
+                "name": "SAFIRA", 
+                "suc": "S02079",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7820,7 +7846,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A0887D0DACA6BB9B",
+                "name": "ADUANA", 
+                "suc": "S02076",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7838,7 +7865,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "2F539801A3E35054",
+                "name": "JOALHERIA ALBERTO", 
+                "suc": "S02075",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7857,7 +7885,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A1063925F3B44951",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7875,7 +7903,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "BFECB10CB476D1F1",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7893,7 +7921,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "07E8A0EA0CEACEFD",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7911,7 +7939,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A7AD6EBDF1B1EFC7",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7929,7 +7957,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "FD62A84FFC104C61",
+                "name": "CACAU SHOW", 
+                "suc": "S02083",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7947,7 +7976,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "EEAD9DCBB947E617",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7965,7 +7994,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "15E442E2B5F6F1BC",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -7984,7 +8013,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "FAB327958F3C56D7",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8003,7 +8032,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "E2C98F4E17D24246",
+                "name": "YOUCOM", 
+                "suc": "S2086/",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8025,7 +8055,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "ACFC7EA1C8C08DF6",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8046,7 +8076,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "563156A71D762B2A",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8064,7 +8094,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "55BDDCA56F9FD5BA",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8082,7 +8112,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "8CE47A87AF781F1D",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8101,7 +8131,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "F910109EA9850B5D",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8119,7 +8149,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "9D6FDE46909628E0",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8144,7 +8174,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "93983A5A69EBCF2C",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8162,7 +8192,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "09FB36E84E6D2D66",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8180,7 +8210,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "7A9A657F9493788A",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8198,7 +8228,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "D1BC4889EAE2D20D",
+                "name": "CAMICADO", 
+                "suc": "S03007",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8224,7 +8255,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "9FF97895730C1C6C",
+                "name": "MAGIC GAMES", 
+                "suc": "S3005/",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8242,7 +8274,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "C86569013C7B7D8C",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8263,7 +8295,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "59161F788C53D2D3",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8283,7 +8315,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "7E21E97A8DB82233",
+                "name": "YOSHAKE", 
+                "suc": "S3011/",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -8302,7 +8335,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "34672E227D6CB6B1",
+                "name": "CINEMARK", 
+                "suc": "S03000",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
