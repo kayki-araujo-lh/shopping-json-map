@@ -13373,7 +13373,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": "8005UE0043",
       "name": "São Leopoldo",
       "data": [
         {
@@ -13383,7 +13383,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "4A393098DF118F7E",
+                "name": "LAVANDERIA CHUÁ",
+                "suc": "Q00006",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -13407,51 +13408,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "Escada Rolante",
-                "openTime": { "open": 510, "close": 1230 }
-              },
-              "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                  [
-                    [0.364013671875, 0.11376953125],
-                    [0.3681640625, 0.11865234375],
-                    [0.421142578125, 0.118896484375],
-                    [0.4248046875, 0.1142578125],
-                    [0.4248046875, 0.1044921875],
-                    [0.421142578125, 0.10009765625],
-                    [0.36767578125, 0.1005859375],
-                    [0.36474609375, 0.1044921875]
-                  ]
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "name": "Escada Rolante",
-                "openTime": { "open": 510, "close": 1230 }
-              },
-              "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                  [
-                    [0.482421875, 0.114501953125],
-                    [0.48583984375, 0.118896484375],
-                    [0.539306640625, 0.118896484375],
-                    [0.54296875, 0.114501953125],
-                    [0.54345703125, 0.1044921875],
-                    [0.539306640625, 0.099853515625],
-                    [0.48583984375, 0.1005859375],
-                    [0.482421875, 0.1044921875]
-                  ]
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "name": "1900207188020630",
+                "name": "CÉU DA BOCA",
+                "suc": "S00102",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -13494,7 +13452,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "75E5C82521619474",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -13513,7 +13471,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "EBA20A77B008FC37",
+                "name": "GAMELINE",
+                "suc": "S00202",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -13532,7 +13491,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "281AC1E105F66B43",
+                "name": "CHILLI BEANS",
+                "suc": "S00203",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -13551,7 +13511,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "5A93ADA2568ACA43",
+                "name": "MULTISOM",
+                "suc": "S204/6",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -13573,7 +13534,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "9930C53891D5BD9D",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -13593,7 +13554,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B03A9485B789D6B9",
+                "name": "BESTLASER",
+                "suc": "S00209",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -13612,7 +13574,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B6D4A1B264C5416C",
+                "name": "GOOD CASE",
+                "suc": "S00210",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -13631,7 +13594,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "B2D33FA2B9DBC69B",
+                "name": "O BOTICÁRIO",
+                "suc": "S00213",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14461,7 +14425,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "0D9D2282F3CBEDDA",
+                "name": "CACAU SHOW",
+                "suc": "S00214",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
