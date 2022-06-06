@@ -14451,7 +14451,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "788096E51709DCA9",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14469,7 +14469,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "9BE8AFFB9F8AE111",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14487,7 +14487,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "73719D491771FE8C",
+                "name": "ELEVADOR",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14508,25 +14508,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "86DA043D88E42765",
-                "openTime": { "open": 510, "close": 1230 }
-              },
-              "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                  [
-                    [0.373779296875, 0.174560546875],
-                    [0.44091796875, 0.174072265625],
-                    [0.44091796875, 0.122802734375],
-                    [0.374267578125, 0.12255859375]
-                  ]
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "name": "C2E3B5CE7576E0B0",
+                "name": "CENTAURO",
+                "suc": "S301/6",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14546,29 +14529,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "D5BA01CE7A7EFF09",
-                "openTime": { "open": 510, "close": 1230 }
-              },
-              "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                  [
-                    [0.5732421875, 0.368896484375],
-                    [0.578125, 0.373046875],
-                    [0.60302734375, 0.373046875],
-                    [0.607421875, 0.369873046875],
-                    [0.607666015625, 0.3134765625],
-                    [0.60302734375, 0.3095703125],
-                    [0.578369140625, 0.30908203125],
-                    [0.5732421875, 0.313720703125]
-                  ]
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "name": "9E126D7A1AFD9545",
+                "name": "RENNER",
+                "suc": "S00308",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14596,7 +14558,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "AFC9F420F249BD5D",
+                "name": "CINESYSTEM",
+                "suc": "S00310",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14634,7 +14597,8 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "7D0FDD192095F5CA",
+                "name": "EVOLUTION HAIR",
+                "suc": "S401/4",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14650,28 +14614,6 @@
                   ]
                 ]
               }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "name": "889F3D09AEC28608",
-                "openTime": { "open": 510, "close": 1230 }
-              },
-              "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                  [
-                    [0.343994140625, 0.168212890625],
-                    [0.348876953125, 0.1728515625],
-                    [0.359619140625, 0.172607421875],
-                    [0.364501953125, 0.1689453125],
-                    [0.364501953125, 0.126953125],
-                    [0.359130859375, 0.12255859375],
-                    [0.348388671875, 0.123046875],
-                    [0.343994140625, 0.12744140625]
-                  ]
-                ]
-              }
             }
           ]
         },
@@ -14682,7 +14624,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "445FD2621C13DF50",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14698,28 +14640,6 @@
                   ]
                 ]
               }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "name": "A30FF3A8125AF45E",
-                "openTime": { "open": 510, "close": 1230 }
-              },
-              "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                  [
-                    [0.343994140625, 0.1689453125],
-                    [0.34912109375, 0.17333984375],
-                    [0.359375, 0.173095703125],
-                    [0.3642578125, 0.1689453125],
-                    [0.364501953125, 0.12744140625],
-                    [0.35986328125, 0.12255859375],
-                    [0.348388671875, 0.12255859375],
-                    [0.343994140625, 0.126953125]
-                  ]
-                ]
-              }
             }
           ]
         },
@@ -14730,7 +14650,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "A4BDCE38F9EB61B1",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
@@ -14748,7 +14668,7 @@
             {
               "type": "Feature",
               "properties": {
-                "name": "37C3B31EB331918E",
+                "name": "VAGA",
                 "openTime": { "open": 510, "close": 1230 }
               },
               "geometry": {
